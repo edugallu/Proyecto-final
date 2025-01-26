@@ -1,3 +1,4 @@
+#Segunda Version
 import psutil
 import time
 from datetime import datetime
